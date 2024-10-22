@@ -1,10 +1,3 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Intro to Pandas
-
----
-
-## Materials We Provide
-
-
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Introduction to Pandas | [Link](./intro-to-pandas-starter-code.ipynb)|
@@ -13,7 +6,7 @@
 
 ## Learning Objectives
 
-*After this lesson, students will be able to:*
+*After this lesson, you will be able to:*
 
 1. Explain the difference: Series vs DataFrame
 1. Describe basic characteristics of DataFrames
