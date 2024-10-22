@@ -26,8 +26,6 @@
 
 ## Lesson Outline
 
-> **Total Time: 180 mins**
-
 - Introduction to Pandas 
 - Loading .csv Files
 - Exploring Your Data
